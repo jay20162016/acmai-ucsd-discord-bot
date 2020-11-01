@@ -1,0 +1,11 @@
+https://compete.ai.acmucsd.com/api/dimensions/
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/tourney/match#dontuse
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/tourney/match/t4ceRlsGH7Nd
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/tourney/match/t4ceRlsGH7Nd/results
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/tourney/match/t4ceRlsGH7Nd/agents/1/logs
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/tourney/ranks
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/tourney/matchQueue#dontuse
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/users/Jay_jayjay
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/tourney/players/Jay_jayjay
+https://compete.ai.acmucsd.com/api/dimensions/acmdim/tournaments/tourney/players/STp8ytcWDxC2/match?offset=0&limit=5&order=-1
